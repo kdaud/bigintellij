@@ -5,6 +5,7 @@ import java.util.Stack;
 public class Pupils {
     private Stack<String> students = new Stack<>();
     public void mycall(){
+        System.out.println(students.empty());
         students.push("Gama");
         students.push("Godfrey");
         students.push("Cliff");
