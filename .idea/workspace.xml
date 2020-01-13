@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="afc2d54f-d99d-4587-b421-72be76a19916" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/source/Codes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/source/Que.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/opencode/Codes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/opencode/MainT.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Tester.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +17,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -44,13 +44,26 @@
       <recent name="com.source" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Que">
+  <component name="RunManager" selected="Application.MainT">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
       <module name="gci19" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.opencode.MainT" />
+      <module name="gci19" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.opencode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -71,9 +84,11 @@
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Que" />
+      <item itemvalue="Application.MainT" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainT" />
         <item itemvalue="Application.Que" />
         <item itemvalue="Application.Main" />
       </list>
@@ -101,7 +116,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578915856096</updated>
-      <workItem from="1578915864116" duration="5432000" />
+      <workItem from="1578915864116" duration="6952000" />
     </task>
     <servers />
   </component>
@@ -109,29 +124,29 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="491" y="84" width="544" height="628" key="#com.intellij.ide.util.MemberChooser" timestamp="1578924197272">
+    <state x="491" y="84" width="544" height="628" key="#com.intellij.ide.util.MemberChooser" timestamp="1578937128387">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="491" y="84" width="544" height="628" key="#com.intellij.ide.util.MemberChooser/0.27.1366.741@0.27.1366.741" timestamp="1578924197272" />
+    <state x="491" y="84" width="544" height="628" key="#com.intellij.ide.util.MemberChooser/0.27.1366.741@0.27.1366.741" timestamp="1578937128387" />
     <state x="358" y="60" width="800" height="679" key="#toString()_Generation_Settings" timestamp="1578919914415">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="358" y="60" width="800" height="679" key="#toString()_Generation_Settings/0.27.1366.741@0.27.1366.741" timestamp="1578919914415" />
-    <state width="1300" height="161" key="GridCell.Tab.0.bottom" timestamp="1578924623700">
+    <state width="1300" height="161" key="GridCell.Tab.0.bottom" timestamp="1578937840820">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1300" height="161" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1578924623700" />
-    <state width="1300" height="161" key="GridCell.Tab.0.center" timestamp="1578924623699">
+    <state width="1300" height="161" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1578937840820" />
+    <state width="1300" height="161" key="GridCell.Tab.0.center" timestamp="1578937840819">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1300" height="161" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1578924623699" />
-    <state width="1300" height="161" key="GridCell.Tab.0.left" timestamp="1578924623699">
+    <state width="1300" height="161" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1578937840819" />
+    <state width="1300" height="161" key="GridCell.Tab.0.left" timestamp="1578937840819">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1300" height="161" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1578924623699" />
-    <state width="1300" height="161" key="GridCell.Tab.0.right" timestamp="1578924623700">
+    <state width="1300" height="161" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1578937840819" />
+    <state width="1300" height="161" key="GridCell.Tab.0.right" timestamp="1578937840820">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1300" height="161" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1578924623700" />
+    <state width="1300" height="161" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1578937840820" />
   </component>
 </project>
