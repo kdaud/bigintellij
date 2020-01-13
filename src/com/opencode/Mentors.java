@@ -5,6 +5,7 @@ import java.util.PriorityQueue;
 import java.util.Queue;
 
 public class Mentors implements Codes{
+    private static final  String   COUNTRY="UGANDA";
          private Queue<String> obj = new LinkedList<>();
     @Override
     public void table() {
