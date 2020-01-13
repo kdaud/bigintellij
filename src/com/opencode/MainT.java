@@ -1,5 +1,7 @@
 package com.opencode;
 
+import javax.management.ConstructorParameters;
+
 public class MainT {
     static {
         System.out.println("I Love this thing of coding and i want to be a software engineer some day");
@@ -13,6 +15,9 @@ public class MainT {
         this.name = name;
     }
 
+    /**
+     * return the name
+     */
     private String name;
 
     public static void main(String[] args) {
