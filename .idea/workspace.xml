@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="afc2d54f-d99d-4587-b421-72be76a19916" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/opencode/Codes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/opencode/MainT.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/opencode/Mentors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/opencode/Mentors.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +114,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578915856096</updated>
-      <workItem from="1578915864116" duration="6952000" />
+      <workItem from="1578915864116" duration="7100000" />
     </task>
     <servers />
   </component>
