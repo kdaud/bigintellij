@@ -6,9 +6,7 @@ public class Main{
    // protected BigInteger number;
     private Integer num;
 
-    public static void main(String[] args) {
-       new Main().show();
-    }
+
     public void show(){
         Number num = new BigInteger("65666");
         System.out.println(num);
