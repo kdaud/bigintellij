@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="afc2d54f-d99d-4587-b421-72be76a19916" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/Coder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/source/Language.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/source/Codes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/source/Que.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Tester.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +39,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.source" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Que">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
       <module name="gci19" />
@@ -51,8 +55,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Que" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.source.Que" />
+      <module name="gci19" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.source.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Que" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Que" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -79,7 +101,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578915856096</updated>
-      <workItem from="1578915864116" duration="4317000" />
+      <workItem from="1578915864116" duration="5432000" />
     </task>
     <servers />
   </component>
@@ -87,29 +109,29 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="491" y="84" width="544" height="628" key="#com.intellij.ide.util.MemberChooser" timestamp="1578920657051">
+    <state x="491" y="84" width="544" height="628" key="#com.intellij.ide.util.MemberChooser" timestamp="1578924197272">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="491" y="84" width="544" height="628" key="#com.intellij.ide.util.MemberChooser/0.27.1366.741@0.27.1366.741" timestamp="1578920657051" />
+    <state x="491" y="84" width="544" height="628" key="#com.intellij.ide.util.MemberChooser/0.27.1366.741@0.27.1366.741" timestamp="1578924197272" />
     <state x="358" y="60" width="800" height="679" key="#toString()_Generation_Settings" timestamp="1578919914415">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="358" y="60" width="800" height="679" key="#toString()_Generation_Settings/0.27.1366.741@0.27.1366.741" timestamp="1578919914415" />
-    <state width="1300" height="161" key="GridCell.Tab.0.bottom" timestamp="1578920199356">
+    <state width="1300" height="161" key="GridCell.Tab.0.bottom" timestamp="1578924623700">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1300" height="161" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1578920199356" />
-    <state width="1300" height="161" key="GridCell.Tab.0.center" timestamp="1578920199355">
+    <state width="1300" height="161" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1578924623700" />
+    <state width="1300" height="161" key="GridCell.Tab.0.center" timestamp="1578924623699">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1300" height="161" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1578920199355" />
-    <state width="1300" height="161" key="GridCell.Tab.0.left" timestamp="1578920199354">
+    <state width="1300" height="161" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1578924623699" />
+    <state width="1300" height="161" key="GridCell.Tab.0.left" timestamp="1578924623699">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1300" height="161" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1578920199354" />
-    <state width="1300" height="161" key="GridCell.Tab.0.right" timestamp="1578920199356">
+    <state width="1300" height="161" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1578924623699" />
+    <state width="1300" height="161" key="GridCell.Tab.0.right" timestamp="1578924623700">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1300" height="161" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1578920199356" />
+    <state width="1300" height="161" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1578924623700" />
   </component>
 </project>

@@ -2,11 +2,13 @@ package com.company;
 
 import com.source.Language;
 import com.source.MyTester;
+import com.source.Que;
 
 public class Tester {
     public static void main(String[] args) {
 new Tester().running();
 new Tester().software();
+new Que().soft();
     }
         public void wizzards() {
             MyTester obj = new MyTester();
