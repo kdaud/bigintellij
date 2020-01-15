@@ -1,8 +1,9 @@
 package org.software;
 
 import java.util.Random;
+import java.util.regex.Matcher;
 
-;
+;import javax.print.attribute.PrintJobAttribute;
 
 public class BigNote {
     protected Random mycodes(){
@@ -14,6 +15,9 @@ public class BigNote {
         }
         System.out.println("\n");
         return obj;
+    }
+    public void engineer(){
+        Matcher matcher = ;
     }
 
 }
