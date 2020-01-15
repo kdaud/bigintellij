@@ -5,11 +5,13 @@ import java.util.Random;
 ;
 
 public class BigNote {
-    private Random mycodes(){
+    protected Random mycodes(){
         Random obj = new Random();
-        for(int i=10; i<20;i++){
-            System.out.println(obj.doubles());
+        int xx = obj.nextInt(45);
+        for(int i=15; i<23;i++){
+            System.out.println(xx);
         }
         return  obj;
     }
+
 }
