@@ -7,11 +7,13 @@ import java.util.Random;
 public class BigNote {
     protected Random mycodes(){
         Random obj = new Random();
-        int xx = obj.nextInt(45);
-        for(int i=15; i<23;i++){
-            System.out.println(xx);
+
+        for(int i=20; i<25;i++){
+            int xx = obj.nextInt(45);
+            System.out.print(xx+" ");
         }
-        return  obj;
+        System.out.println("\n");
+        return obj;
     }
 
 }
