@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="afc2d54f-d99d-4587-b421-72be76a19916" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/stacks/Bigcode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/stacks/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/stacks/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -132,6 +130,7 @@
       <option name="presentableId" value="Default" />
       <updated>1578915856096</updated>
       <workItem from="1578915864116" duration="9886000" />
+      <workItem from="1579046134356" duration="305000" />
     </task>
     <servers />
   </component>

@@ -5,4 +5,7 @@ public class Main {
         //new Pupils().mycall();
         new Bigcode().software();
     }
+    static{
+        System.out.println("My static block in progress");
+    }
 }
