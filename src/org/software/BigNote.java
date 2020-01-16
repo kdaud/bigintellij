@@ -1,6 +1,7 @@
 package org.software;
 
 import java.util.Random;
+import java.util.Stack;
 import java.util.regex.Matcher;
 
 ;import javax.print.attribute.PrintJobAttribute;
@@ -23,6 +24,11 @@ public class BigNote {
         for(int g: number){
             System.out.println(number[g]);
         }
+    }
+    public void mystuff(){
+        Stack<String> coders = new Stack<>();
+        coders.push("Dansling");
+        System.out.println(coders);
     }
 
 }
