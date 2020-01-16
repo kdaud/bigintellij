@@ -17,7 +17,12 @@ public class BigNote {
         return obj;
     }
     public void engineer(){
-        Matcher matcher = ;
+        //Matcher matcher = ;
+        int [] number={4,3,2,1,6,5};
+
+        for(int g: number){
+            System.out.println(number[g]);
+        }
     }
 
 }

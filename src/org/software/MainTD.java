@@ -8,7 +8,9 @@ public class MainTD {
     static final String MY_COUNTRY ="UGANDA";
     public static void main(String[] args) {
         BigNote objs = new BigNote();
-        System.out.println(objs.mycodes());
+        //System.out.println(objs.mycodes());
+        System.out.println("########################");
+        objs.engineer();
 
 //mysoftware();
     }
