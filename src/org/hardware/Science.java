@@ -3,6 +3,9 @@ package org.hardware;
 import java.util.Scanner;
 
 public class Science {
+    static {
+        System.out.println("HELLO SOFTWARE ENGINEERING");
+    }
     private Scanner scanner = new Scanner(System.in);
     protected int mycall(){
         int [] marks = new int[4];
