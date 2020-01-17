@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="afc2d54f-d99d-4587-b421-72be76a19916" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/org/hardware/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/hardware/Sample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/hardware/Science.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/software/BigNote.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/software/BigNote.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/source/Que.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/source/Que.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,13 +48,13 @@
       <recent name="com.source" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MainTD">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.stacks.Main" />
+  <component name="RunManager" selected="Application.Main (2)">
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.hardware.Main" />
       <module name="gci19" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.stacks.*" />
+          <option name="PATTERN" value="org.hardware.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,19 +68,6 @@
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.opencode.MainT" />
-      <module name="gci19" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.opencode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -108,20 +98,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Sample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.hardware.Sample" />
+      <module name="gci19" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.hardware.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.MainT" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Que" />
-      <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.MainTD" />
+      <item itemvalue="Application.Sample" />
+      <item itemvalue="Application.Main (2)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MainTD" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Sample" />
         <item itemvalue="Application.Que" />
+        <item itemvalue="Application.MainTD" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.MainT" />
       </list>
     </recent_temporary>
   </component>
@@ -152,6 +155,8 @@
       <workItem from="1579092915027" duration="974000" />
       <workItem from="1579108916488" duration="2940000" />
       <workItem from="1579130719686" duration="2482000" />
+      <workItem from="1579178392620" duration="4485000" />
+      <workItem from="1579283687757" duration="569000" />
     </task>
     <servers />
   </component>
@@ -171,22 +176,22 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="461" y="155" width="424" height="486" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1579094454654" />
-    <state width="1300" height="161" key="GridCell.Tab.0.bottom" timestamp="1579132856272">
+    <state width="1320" height="174" key="GridCell.Tab.0.bottom" timestamp="1579284319571">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1300" height="161" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1579132856272" />
-    <state width="1300" height="161" key="GridCell.Tab.0.center" timestamp="1579132856272">
+    <state width="1320" height="174" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1579284319571" />
+    <state width="1320" height="174" key="GridCell.Tab.0.center" timestamp="1579284319568">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1300" height="161" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1579132856272" />
-    <state width="1300" height="161" key="GridCell.Tab.0.left" timestamp="1579132856272">
+    <state width="1320" height="174" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1579284319568" />
+    <state width="1320" height="174" key="GridCell.Tab.0.left" timestamp="1579284319567">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1300" height="161" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1579132856272" />
-    <state width="1300" height="161" key="GridCell.Tab.0.right" timestamp="1579132856272">
+    <state width="1320" height="174" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1579284319567" />
+    <state width="1320" height="174" key="GridCell.Tab.0.right" timestamp="1579284319571">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1300" height="161" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1579132856272" />
+    <state width="1320" height="174" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1579284319571" />
     <state x="339" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1579132363553">
       <screen x="0" y="27" width="1366" height="741" />
     </state>

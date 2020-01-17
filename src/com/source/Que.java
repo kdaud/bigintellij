@@ -25,5 +25,11 @@ mylist.add("Henry");
 
     public static void main(String[] args) {
         new Que().soft();
+        int ss =4;
+        int hh = ss>>2;
+        System.out.println("The value of ss is "+hh);
+    }
+    public void mytest(){
+
     }
 }
