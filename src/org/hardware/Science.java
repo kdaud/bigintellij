@@ -28,6 +28,7 @@ public class Science {
         }
     }
     protected void softwareprogrammer(){
+        System.out.println("Enter the size of the array");
         int x =scanner.nextInt();
         int [] marks = new int[x];
         int []grades= new int[x];
@@ -39,16 +40,18 @@ public class Science {
         }
 
         for (int i = 0; i <grades.length ; i++) {
-            System.out.println("Enter your marks: ");
+            System.out.println("Enter your grades: ");
             marks[i]= scanner.nextInt();
         }
+
         for(int h=0;h<marks.length-1;h++){
             for (int j=0; h<grades.length; h++){
                 sum[h]=marks[h]+grades[h];
             }
         }
         for(int summation: sum){
-            System.out.println(summation);
+            System.out.print(summation+" ");
         }
+        System.out.println("Sum: "+sum[0]+sum[1]+sum[2]+sum[3]);
     }
 }
